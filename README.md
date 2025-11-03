@@ -74,8 +74,8 @@ from torch.utils.data import DataLoader
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ddpm-implementation.git
-    cd ddpm-implementation
+    git clone https://github.com/MohammadJavadShamloo/DDPM.git
+    cd DDPM
     ```
     
 2.  Install dependencies:
